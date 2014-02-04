@@ -1,6 +1,6 @@
 <script>
-	//keyboard arrow navigation
-    $(document).keydown(function(e) {
+//keyboard arrow navigation
+$(document).keydown(function(e) {
 
 		var url = false;
         
